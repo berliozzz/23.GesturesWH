@@ -1,0 +1,597 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9AC5018A1BF4A82E00750677 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC501891BF4A82E00750677 /* main.m */; };
+		9AC5018D1BF4A82E00750677 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC5018C1BF4A82E00750677 /* AppDelegate.m */; };
+		9AC501901BF4A82E00750677 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC5018F1BF4A82E00750677 /* ViewController.m */; };
+		9AC501931BF4A82E00750677 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501911BF4A82E00750677 /* Main.storyboard */; };
+		9AC501951BF4A82E00750677 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501941BF4A82E00750677 /* Assets.xcassets */; };
+		9AC501981BF4A82E00750677 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501961BF4A82E00750677 /* LaunchScreen.storyboard */; };
+		9AC501A31BF4A82F00750677 /* GesturesWH23Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC501A21BF4A82F00750677 /* GesturesWH23Tests.m */; };
+		9AC501AE1BF4A82F00750677 /* GesturesWH23UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC501AD1BF4A82F00750677 /* GesturesWH23UITests.m */; };
+		9AC501CD1BF4AE0500750677 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501BC1BF4AE0500750677 /* 1.png */; };
+		9AC501CE1BF4AE0500750677 /* 1invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501BD1BF4AE0500750677 /* 1invert.png */; };
+		9AC501CF1BF4AE0500750677 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501BE1BF4AE0500750677 /* 2.png */; };
+		9AC501D01BF4AE0500750677 /* 2invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501BF1BF4AE0500750677 /* 2invert.png */; };
+		9AC501D11BF4AE0500750677 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C01BF4AE0500750677 /* 3.png */; };
+		9AC501D21BF4AE0500750677 /* 3invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C11BF4AE0500750677 /* 3invert.png */; };
+		9AC501D31BF4AE0500750677 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C21BF4AE0500750677 /* 4.png */; };
+		9AC501D41BF4AE0500750677 /* 4invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C31BF4AE0500750677 /* 4invert.png */; };
+		9AC501D51BF4AE0500750677 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C41BF4AE0500750677 /* 5.png */; };
+		9AC501D61BF4AE0500750677 /* 5invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C51BF4AE0500750677 /* 5invert.png */; };
+		9AC501D71BF4AE0500750677 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C61BF4AE0500750677 /* 6.png */; };
+		9AC501D81BF4AE0500750677 /* 6invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C71BF4AE0500750677 /* 6invert.png */; };
+		9AC501D91BF4AE0500750677 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C81BF4AE0500750677 /* 7.png */; };
+		9AC501DA1BF4AE0500750677 /* 7invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501C91BF4AE0500750677 /* 7invert.png */; };
+		9AC501DB1BF4AE0500750677 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501CA1BF4AE0500750677 /* 8.png */; };
+		9AC501DC1BF4AE0500750677 /* 8invert.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501CB1BF4AE0500750677 /* 8invert.png */; };
+		9AC501DD1BF4AE0500750677 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AC501CC1BF4AE0500750677 /* background.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9AC5019F1BF4A82F00750677 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9AC5017D1BF4A82E00750677 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9AC501841BF4A82E00750677;
+			remoteInfo = GesturesWH23;
+		};
+		9AC501AA1BF4A82F00750677 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9AC5017D1BF4A82E00750677 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9AC501841BF4A82E00750677;
+			remoteInfo = GesturesWH23;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9AC501851BF4A82E00750677 /* GesturesWH23.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GesturesWH23.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AC501891BF4A82E00750677 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9AC5018B1BF4A82E00750677 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9AC5018C1BF4A82E00750677 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9AC5018E1BF4A82E00750677 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9AC5018F1BF4A82E00750677 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9AC501921BF4A82E00750677 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9AC501941BF4A82E00750677 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9AC501971BF4A82E00750677 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9AC501991BF4A82E00750677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AC5019E1BF4A82F00750677 /* GesturesWH23Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GesturesWH23Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AC501A21BF4A82F00750677 /* GesturesWH23Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GesturesWH23Tests.m; sourceTree = "<group>"; };
+		9AC501A41BF4A82F00750677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AC501A91BF4A82F00750677 /* GesturesWH23UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GesturesWH23UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AC501AD1BF4A82F00750677 /* GesturesWH23UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GesturesWH23UITests.m; sourceTree = "<group>"; };
+		9AC501AF1BF4A82F00750677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AC501BC1BF4AE0500750677 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		9AC501BD1BF4AE0500750677 /* 1invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1invert.png; sourceTree = "<group>"; };
+		9AC501BE1BF4AE0500750677 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		9AC501BF1BF4AE0500750677 /* 2invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2invert.png; sourceTree = "<group>"; };
+		9AC501C01BF4AE0500750677 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		9AC501C11BF4AE0500750677 /* 3invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3invert.png; sourceTree = "<group>"; };
+		9AC501C21BF4AE0500750677 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		9AC501C31BF4AE0500750677 /* 4invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4invert.png; sourceTree = "<group>"; };
+		9AC501C41BF4AE0500750677 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		9AC501C51BF4AE0500750677 /* 5invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5invert.png; sourceTree = "<group>"; };
+		9AC501C61BF4AE0500750677 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		9AC501C71BF4AE0500750677 /* 6invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6invert.png; sourceTree = "<group>"; };
+		9AC501C81BF4AE0500750677 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		9AC501C91BF4AE0500750677 /* 7invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7invert.png; sourceTree = "<group>"; };
+		9AC501CA1BF4AE0500750677 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		9AC501CB1BF4AE0500750677 /* 8invert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8invert.png; sourceTree = "<group>"; };
+		9AC501CC1BF4AE0500750677 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9AC501821BF4A82E00750677 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC5019B1BF4A82F00750677 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC501A61BF4A82F00750677 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9AC5017C1BF4A82E00750677 = {
+			isa = PBXGroup;
+			children = (
+				9AC501871BF4A82E00750677 /* GesturesWH23 */,
+				9AC501A11BF4A82F00750677 /* GesturesWH23Tests */,
+				9AC501AC1BF4A82F00750677 /* GesturesWH23UITests */,
+				9AC501861BF4A82E00750677 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9AC501861BF4A82E00750677 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9AC501851BF4A82E00750677 /* GesturesWH23.app */,
+				9AC5019E1BF4A82F00750677 /* GesturesWH23Tests.xctest */,
+				9AC501A91BF4A82F00750677 /* GesturesWH23UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9AC501871BF4A82E00750677 /* GesturesWH23 */ = {
+			isa = PBXGroup;
+			children = (
+				9AC5018B1BF4A82E00750677 /* AppDelegate.h */,
+				9AC5018C1BF4A82E00750677 /* AppDelegate.m */,
+				9AC5018E1BF4A82E00750677 /* ViewController.h */,
+				9AC5018F1BF4A82E00750677 /* ViewController.m */,
+				9AC501911BF4A82E00750677 /* Main.storyboard */,
+				9AC501941BF4A82E00750677 /* Assets.xcassets */,
+				9AC501961BF4A82E00750677 /* LaunchScreen.storyboard */,
+				9AC501991BF4A82E00750677 /* Info.plist */,
+				9AC501BB1BF4AE0500750677 /* ImageFiles */,
+				9AC501881BF4A82E00750677 /* Supporting Files */,
+			);
+			path = GesturesWH23;
+			sourceTree = "<group>";
+		};
+		9AC501881BF4A82E00750677 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9AC501891BF4A82E00750677 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9AC501A11BF4A82F00750677 /* GesturesWH23Tests */ = {
+			isa = PBXGroup;
+			children = (
+				9AC501A21BF4A82F00750677 /* GesturesWH23Tests.m */,
+				9AC501A41BF4A82F00750677 /* Info.plist */,
+			);
+			path = GesturesWH23Tests;
+			sourceTree = "<group>";
+		};
+		9AC501AC1BF4A82F00750677 /* GesturesWH23UITests */ = {
+			isa = PBXGroup;
+			children = (
+				9AC501AD1BF4A82F00750677 /* GesturesWH23UITests.m */,
+				9AC501AF1BF4A82F00750677 /* Info.plist */,
+			);
+			path = GesturesWH23UITests;
+			sourceTree = "<group>";
+		};
+		9AC501BB1BF4AE0500750677 /* ImageFiles */ = {
+			isa = PBXGroup;
+			children = (
+				9AC501BC1BF4AE0500750677 /* 1.png */,
+				9AC501BD1BF4AE0500750677 /* 1invert.png */,
+				9AC501BE1BF4AE0500750677 /* 2.png */,
+				9AC501BF1BF4AE0500750677 /* 2invert.png */,
+				9AC501C01BF4AE0500750677 /* 3.png */,
+				9AC501C11BF4AE0500750677 /* 3invert.png */,
+				9AC501C21BF4AE0500750677 /* 4.png */,
+				9AC501C31BF4AE0500750677 /* 4invert.png */,
+				9AC501C41BF4AE0500750677 /* 5.png */,
+				9AC501C51BF4AE0500750677 /* 5invert.png */,
+				9AC501C61BF4AE0500750677 /* 6.png */,
+				9AC501C71BF4AE0500750677 /* 6invert.png */,
+				9AC501C81BF4AE0500750677 /* 7.png */,
+				9AC501C91BF4AE0500750677 /* 7invert.png */,
+				9AC501CA1BF4AE0500750677 /* 8.png */,
+				9AC501CB1BF4AE0500750677 /* 8invert.png */,
+				9AC501CC1BF4AE0500750677 /* background.jpg */,
+			);
+			path = ImageFiles;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9AC501841BF4A82E00750677 /* GesturesWH23 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9AC501B21BF4A82F00750677 /* Build configuration list for PBXNativeTarget "GesturesWH23" */;
+			buildPhases = (
+				9AC501811BF4A82E00750677 /* Sources */,
+				9AC501821BF4A82E00750677 /* Frameworks */,
+				9AC501831BF4A82E00750677 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GesturesWH23;
+			productName = GesturesWH23;
+			productReference = 9AC501851BF4A82E00750677 /* GesturesWH23.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9AC5019D1BF4A82F00750677 /* GesturesWH23Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9AC501B51BF4A82F00750677 /* Build configuration list for PBXNativeTarget "GesturesWH23Tests" */;
+			buildPhases = (
+				9AC5019A1BF4A82F00750677 /* Sources */,
+				9AC5019B1BF4A82F00750677 /* Frameworks */,
+				9AC5019C1BF4A82F00750677 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9AC501A01BF4A82F00750677 /* PBXTargetDependency */,
+			);
+			name = GesturesWH23Tests;
+			productName = GesturesWH23Tests;
+			productReference = 9AC5019E1BF4A82F00750677 /* GesturesWH23Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9AC501A81BF4A82F00750677 /* GesturesWH23UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9AC501B81BF4A82F00750677 /* Build configuration list for PBXNativeTarget "GesturesWH23UITests" */;
+			buildPhases = (
+				9AC501A51BF4A82F00750677 /* Sources */,
+				9AC501A61BF4A82F00750677 /* Frameworks */,
+				9AC501A71BF4A82F00750677 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9AC501AB1BF4A82F00750677 /* PBXTargetDependency */,
+			);
+			name = GesturesWH23UITests;
+			productName = GesturesWH23UITests;
+			productReference = 9AC501A91BF4A82F00750677 /* GesturesWH23UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9AC5017D1BF4A82E00750677 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "Nikolay Berlioz";
+				TargetAttributes = {
+					9AC501841BF4A82E00750677 = {
+						CreatedOnToolsVersion = 7.1.1;
+					};
+					9AC5019D1BF4A82F00750677 = {
+						CreatedOnToolsVersion = 7.1.1;
+						TestTargetID = 9AC501841BF4A82E00750677;
+					};
+					9AC501A81BF4A82F00750677 = {
+						CreatedOnToolsVersion = 7.1.1;
+						TestTargetID = 9AC501841BF4A82E00750677;
+					};
+				};
+			};
+			buildConfigurationList = 9AC501801BF4A82E00750677 /* Build configuration list for PBXProject "GesturesWH23" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9AC5017C1BF4A82E00750677;
+			productRefGroup = 9AC501861BF4A82E00750677 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9AC501841BF4A82E00750677 /* GesturesWH23 */,
+				9AC5019D1BF4A82F00750677 /* GesturesWH23Tests */,
+				9AC501A81BF4A82F00750677 /* GesturesWH23UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9AC501831BF4A82E00750677 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9AC501D71BF4AE0500750677 /* 6.png in Resources */,
+				9AC501DD1BF4AE0500750677 /* background.jpg in Resources */,
+				9AC501D21BF4AE0500750677 /* 3invert.png in Resources */,
+				9AC501D81BF4AE0500750677 /* 6invert.png in Resources */,
+				9AC501DC1BF4AE0500750677 /* 8invert.png in Resources */,
+				9AC501DA1BF4AE0500750677 /* 7invert.png in Resources */,
+				9AC501D41BF4AE0500750677 /* 4invert.png in Resources */,
+				9AC501CF1BF4AE0500750677 /* 2.png in Resources */,
+				9AC501DB1BF4AE0500750677 /* 8.png in Resources */,
+				9AC501981BF4A82E00750677 /* LaunchScreen.storyboard in Resources */,
+				9AC501CD1BF4AE0500750677 /* 1.png in Resources */,
+				9AC501D11BF4AE0500750677 /* 3.png in Resources */,
+				9AC501D61BF4AE0500750677 /* 5invert.png in Resources */,
+				9AC501951BF4A82E00750677 /* Assets.xcassets in Resources */,
+				9AC501931BF4A82E00750677 /* Main.storyboard in Resources */,
+				9AC501D01BF4AE0500750677 /* 2invert.png in Resources */,
+				9AC501D51BF4AE0500750677 /* 5.png in Resources */,
+				9AC501D31BF4AE0500750677 /* 4.png in Resources */,
+				9AC501CE1BF4AE0500750677 /* 1invert.png in Resources */,
+				9AC501D91BF4AE0500750677 /* 7.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC5019C1BF4A82F00750677 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC501A71BF4A82F00750677 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9AC501811BF4A82E00750677 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9AC501901BF4A82E00750677 /* ViewController.m in Sources */,
+				9AC5018D1BF4A82E00750677 /* AppDelegate.m in Sources */,
+				9AC5018A1BF4A82E00750677 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC5019A1BF4A82F00750677 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9AC501A31BF4A82F00750677 /* GesturesWH23Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC501A51BF4A82F00750677 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9AC501AE1BF4A82F00750677 /* GesturesWH23UITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9AC501A01BF4A82F00750677 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9AC501841BF4A82E00750677 /* GesturesWH23 */;
+			targetProxy = 9AC5019F1BF4A82F00750677 /* PBXContainerItemProxy */;
+		};
+		9AC501AB1BF4A82F00750677 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9AC501841BF4A82E00750677 /* GesturesWH23 */;
+			targetProxy = 9AC501AA1BF4A82F00750677 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9AC501911BF4A82E00750677 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9AC501921BF4A82E00750677 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9AC501961BF4A82E00750677 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9AC501971BF4A82E00750677 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9AC501B01BF4A82F00750677 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		9AC501B11BF4A82F00750677 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9AC501B31BF4A82F00750677 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = GesturesWH23/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Devil-Academy.GesturesWH23";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9AC501B41BF4A82F00750677 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = GesturesWH23/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Devil-Academy.GesturesWH23";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		9AC501B61BF4A82F00750677 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = GesturesWH23Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Devil-Academy.GesturesWH23Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GesturesWH23.app/GesturesWH23";
+			};
+			name = Debug;
+		};
+		9AC501B71BF4A82F00750677 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = GesturesWH23Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Devil-Academy.GesturesWH23Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GesturesWH23.app/GesturesWH23";
+			};
+			name = Release;
+		};
+		9AC501B91BF4A82F00750677 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = GesturesWH23UITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Devil-Academy.GesturesWH23UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = GesturesWH23;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		9AC501BA1BF4A82F00750677 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = GesturesWH23UITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Devil-Academy.GesturesWH23UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = GesturesWH23;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9AC501801BF4A82E00750677 /* Build configuration list for PBXProject "GesturesWH23" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9AC501B01BF4A82F00750677 /* Debug */,
+				9AC501B11BF4A82F00750677 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9AC501B21BF4A82F00750677 /* Build configuration list for PBXNativeTarget "GesturesWH23" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9AC501B31BF4A82F00750677 /* Debug */,
+				9AC501B41BF4A82F00750677 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9AC501B51BF4A82F00750677 /* Build configuration list for PBXNativeTarget "GesturesWH23Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9AC501B61BF4A82F00750677 /* Debug */,
+				9AC501B71BF4A82F00750677 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9AC501B81BF4A82F00750677 /* Build configuration list for PBXNativeTarget "GesturesWH23UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9AC501B91BF4A82F00750677 /* Debug */,
+				9AC501BA1BF4A82F00750677 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9AC5017D1BF4A82E00750677 /* Project object */;
+}
